@@ -1,0 +1,20 @@
+1.{"instruction":"My computer is slow. What should I do?","output":"Close unused programs, restart your computer, and scan for viruses."}
+2.{"instruction":"How do I connect to WiFi?","output":"Go to WiFi settings, select your network, and enter password."}
+3.{"instruction":"My internet is not working.","output":"Restart your router and check cables."}
+4.{"instruction":"My laptop is not turning on.","output":"Check charger and battery, then try holding power button."}
+5.{"instruction":"How do I reset password?","output":"Use forgot password option and follow email instructions."}
+6.{"instruction":"My screen is blank.","output":"Check power and brightness, then restart device."}
+7.{"instruction":"How do I install software?","output":"Download setup file and follow installation steps."}
+8.{"instruction":"My keyboard is not working.","output":"Reconnect keyboard or replace batteries if wireless."}
+9.{"instruction":"How do I remove virus?","output":"Run antivirus scan and remove threats."}
+10.{"instruction":"My computer is overheating.","output":"Clean fans and improve ventilation."}
+11.{"instruction":"My mouse is not working.","output":"Check connection or replace batteries."}
+12.{"instruction":"How do I update Windows?","output":"Go to Settings > Update & Security > Check updates."}
+13.{"instruction":"My audio is not working.","output":"Check volume and audio device settings."}
+14.{"instruction":"My printer is not printing.","output":"Check connection and ink levels."}
+15.{"instruction":"How do I backup files?","output":"Use cloud storage or external drive."}
+16.{"instruction":"My apps are crashing.","output":"Restart or reinstall the app."}
+17.{"instruction":"How do I uninstall software?","output":"Go to Settings and click uninstall."}
+18.{"instruction":"My Bluetooth is not working.","output":"Turn Bluetooth off and on and repair device."}
+19.{"instruction":"My screen is frozen.","output":"Press Ctrl+Alt+Delete or restart system."}
+20.{"instruction":"How do I change language?","output":"Go to Settings > Language and select option."}

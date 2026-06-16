@@ -1,0 +1,50 @@
+1.{"instruction":"My computer is slow. What should I do?","output":"Close unused programs, restart your computer, and check for viruses using antivirus software."}
+2.{"instruction":"How do I connect to WiFi?","output":"Go to WiFi settings, select your network, and enter the correct password."}
+3.{"instruction":"My internet is not working.","output":"Restart your router, check cables, and contact your internet provider if the issue continues."}
+4.{"instruction":"How do I reset my password?","output":"Click on 'Forgot Password' option and follow the reset instructions sent to your email."}
+5.{"instruction":"My laptop is not turning on.","output":"Check the charger, battery, and try holding the power button for 10 seconds."}
+6.{"instruction":"How to update Windows?","output":"Go to Settings, click Update & Security, then select Check for updates."}
+7.{"instruction":"My screen is blank.","output":"Check power connection, brightness settings, and try restarting the device."}
+8.{"instruction":"How do I install software?","output":"Download the setup file, open it, and follow the installation steps."}
+9.{"instruction":"My keyboard is not working.","output":"Reconnect the keyboard, check batteries if wireless, or restart your system."}
+10.{"instruction":"How do I remove a virus?","output":"Run a full antivirus scan and remove detected threats."}
+11.{"instruction":"My computer is overheating.","output":"Clean dust from fans and ensure proper ventilation."}
+12.{"instruction":"How do I backup files?","output":"Use external drive or cloud storage like Google Drive to save your important files."}
+13.{"instruction":"My mouse is not responding.","output":"Check connection, change USB port, or replace batteries if wireless."}
+14.{"instruction":"How do I update drivers?","output":"Go to Device Manager and select 'Update driver' for the required device."}
+15.{"instruction":"My audio is not working.","output":"Check volume settings, audio drivers, and ensure correct output device is selected."}
+16.{"instruction":"How do I create a new user account?","output":"Go to Settings, Accounts, and click Add user."}
+17.{"instruction":"My printer is not printing.","output":"Check connection, ink levels, and restart the printer."}
+18.{"instruction":"How do I scan a document?","output":"Use a scanner or printer app and select scan option."}
+19.{"instruction":"My apps are crashing.","output":"Restart the app, update it, or reinstall if needed."}
+20.{"instruction":"How do I clear cache?","output":"Go to browser settings and clear browsing data."}
+21.{"instruction":"My Bluetooth is not working.","output":"Turn Bluetooth off and on, and check device pairing."}
+22.{"instruction":"How do I uninstall a program?","output":"Go to Control Panel or Settings and select uninstall."}
+23.{"instruction":"My screen is frozen.","output":"Press Ctrl + Alt + Delete or restart the system."}
+24.{"instruction":"How do I change display settings?","output":"Go to Settings and select Display options."}
+25.{"instruction":"My computer is making noise.","output":"Check fans for dust or hardware issues."}
+26.{"instruction":"How do I connect a printer?","output":"Connect via USB or WiFi and install drivers."}
+27.{"instruction":"My files are missing.","output":"Check Recycle Bin or restore from backup."}
+28.{"instruction":"How do I check storage?","output":"Go to Settings > Storage to view available space."}
+29.{"instruction":"My webcam is not working.","output":"Check camera permissions and drivers."}
+30.{"instruction":"How do I change language settings?","output":"Go to Settings > Language and select your preferred language."}
+31.{"instruction":"My computer is stuck on loading screen.","output":"Restart and boot into safe mode if needed."}
+32.{"instruction":"How do I connect to a VPN?","output":"Install VPN app, log in, and connect to a server."}
+33.{"instruction":"My files are corrupted.","output":"Try restoring from backup or use recovery tools."}
+34.{"instruction":"How do I take a screenshot?","output":"Press Print Screen or Windows + Shift + S."}
+35.{"instruction":"My touch pad is not working.","output":"Enable touch pad in settings or reinstall drivers."}
+36.{"instruction":"How do I check system information?","output":"Open System Settings or run 'msinfo32'."}
+37.{"instruction":"My computer is running hot.","output":"Close heavy apps and clean cooling fans."}
+38.{"instruction":"How do I update antivirus?","output":"Open antivirus software and click update."}
+39.{"instruction":"My screen resolution is wrong.","output":"Go to Display settings and adjust resolution."}
+40.{"instruction":"How do I share files?","output":"Use email, USB drive, or cloud storage."}
+41.{"instruction":"My login is not working.","output":"Reset your password or check username spelling."}
+42.{"instruction":"How do I enable dark mode?","output":"Go to Settings > Personalization > Dark Mode."}
+43.{"instruction":"My system is slow after update.","output":"Restart system and uninstall problematic updates if needed."}
+44.{"instruction":"How do I clear disk space?","output":"Delete temporary files and unused programs."}
+45.{"instruction":"My WiFi keeps disconnecting.","output":"Restart router and update network drivers."}
+46.{"instruction":"How do I set up email?","output":"Enter email credentials in mail app and configure server settings."}
+47.{"instruction":"My USB is not detected.","output":"Try another port or check device drivers."}
+48.{"instruction":"How do I enable firewall?","output":"Go to Security Settings and turn on firewall."}
+49.{"instruction":"My computer shows blue screen.","output":"Restart and check for hardware or driver issues."}
+50.{"instruction":"How do I recover deleted files?","output":"Check Recycle Bin or use recovery software."}

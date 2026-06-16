@@ -1,0 +1,10 @@
+1.{"instruction":"My computer is not responding.","output":"Restart your computer and close heavy applications."}
+2.{"instruction":"How do I update drivers?","output":"Go to Device Manager and update required drivers."}
+3.{"instruction":"My internet is slow.","output":"Restart router and check network usage."}
+4.{"instruction":"My laptop fan is loud.","output":"Clean dust from fan and reduce heavy usage."}
+5.{"instruction":"How do I connect printer?","output":"Use USB or WiFi and install drivers."}
+6.{"instruction":"My screen is flickering.","output":"Check display cable or update graphics driver."}
+7.{"instruction":"How do I create user account?","output":"Go to settings and add new user."}
+8.{"instruction":"My antivirus is not updating.","output":"Check internet connection and update manually."}
+9.{"instruction":"My computer restarts randomly.","output":"Check overheating or faulty hardware."}
+10.{"instruction":"How do I clear disk space?","output":"Delete unused files and uninstall apps."}
